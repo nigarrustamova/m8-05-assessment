@@ -11,7 +11,7 @@ Paste the output of `run_eval.py` here and summarize.
 
 ## Rubric
 
-> TODO — the exact rubric your judge used.
+> TODO — the exact rubric your judge used
 
 ## Verdict
 
